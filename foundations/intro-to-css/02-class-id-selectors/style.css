@@ -1,0 +1,19 @@
+.oddElement{
+    background-color: #ffb6c1;
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+
+#secondElement{
+    color: blue;
+    font-size: 36px;
+}
+
+#thirdElement{
+    font-size: 24px;
+}
+
+#fourthElement{
+    background-color: #90EE90;
+    font-weight: bold;
+    font-size: 24px;
+}
